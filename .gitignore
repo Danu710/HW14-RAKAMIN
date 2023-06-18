@@ -30,3 +30,6 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# Keep environment variables out of version control
+.env
